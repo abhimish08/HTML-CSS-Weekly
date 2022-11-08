@@ -1,0 +1,19 @@
+#info
+{
+    vertical-align:top;
+    display: inline-block;
+    height:275px;
+}
+#text
+{
+    vertical-align:middle;
+    display: inline-block;
+    height:275px;
+
+}
+div
+{
+    width:49%;
+    height:275px;
+    display: inline-block;
+}
